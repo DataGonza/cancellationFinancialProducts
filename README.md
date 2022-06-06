@@ -1,12 +1,12 @@
 # Cancellation of a Financial Product
-In this project, I explore financial data to predict if a customer will cancel a specific product before two years.  
+In this project, I explore financial data to predict whether customer will cancel a specific product before two years.  
 
 ## Problem
-This project is a solution to the hackathon of Kin Analytics company. The problem is to predict which customers will drop a product in less than two years based on their use of the company's products and financial data such as bank account transactions and credit bureau scores.  
+This project is a solution to the hackathon of Kin Analytics company. The problem is to predict which customers will drop a product in less than two years based on their use of the company's products and financial data like bank account transactions and credit bureau scores.  
 
 ## Solution
 To do this, I perform 6 steps to develop my proposed solution:
-1. Desired Population: Adequacy of the data , each filter to obtain only the desired customers to analyze.
+1. Desired Population: Adequacy of the data , each filter to get only the desired customers to analyze.
 2. New Variables: Get the age, number of products, account balance, and bureau score at the moment of application of each costumer.
 3. Exploring Data: Way to select a prediction model.
 4. Prediction model: Creation of different classifier models.
